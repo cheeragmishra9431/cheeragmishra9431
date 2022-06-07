@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/cheeraagmishra" target="blank"><img src="https://img.shields.io/twitter/follow/cheeraagmishra?logo=twitter&style=for-the-badge" alt="cheeraagmishra" /></a> </p>
 
-- 🔭 I’m currently working on **NewsMonkey**
+- 🔭 I’m currently working on **StudyRoom_chat_group**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cheeragmishra9431](https://github.com/cheeragmishra9431)
 
