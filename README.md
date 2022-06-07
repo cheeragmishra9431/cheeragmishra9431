@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheeraag Mishra</h1>
-<h3 align="center">A pre-final year student in National Institute of Technology Rourkela, interested in Web Development</h3>
+<h3 align="center">A Final year student in National Institute of Technology Rourkela, interested in Web Development and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeragmishra9431&label=Profile%20views&color=0e75b6&style=flat" alt="cheeragmishra9431" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/934149/screenshots/14906513/media/a67557775535a7650548b65b4ad18cc8.gif"></img>
